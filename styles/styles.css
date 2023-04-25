@@ -2,6 +2,7 @@ body {
   font-family: 'Arsenal', sans-serif;
   font-family: 'Montserrat', sans-serif;
   background-color: #f5f7fa;
+  margin: 0;
 }
 
 /* main styles */
@@ -10,7 +11,8 @@ body {
   display: flex;
   flex-direction: row-reverse;
   width: 1440px;
-  margin: 0 auto;
+  margin: 0;
+  padding: 0;
 }
 
 .main-content {
