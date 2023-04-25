@@ -36,17 +36,18 @@ body {
 
 .about-name {
   font-weight: bold;
-  font-size: 45px;
+  font-size: 70px;
   line-height: 55px;
   color: #000;
   margin-bottom: 30px;
+  text-align: center;
 }
 
 .about-description {
   font-size: 18px;
   line-height: 24px;
   color: #000000;
-  width: 500px;
+  
 }
 
 /* projects styles */
@@ -61,15 +62,16 @@ body {
   line-height: 27px;
   color: #000000;
   margin-bottom: 10px;
+ 
 }
 
 .position{
   font-weight: bold;
-  font-size: 28px;
+  font-size: 35px;
   line-height: 27px;
   color: #fb6d3a;
   margin-bottom: 20px;
-  margin-left: 5px;
+text-align: center;
 }
 
 .projects-list {
@@ -96,9 +98,9 @@ body {
   color: #000000;
 }
 
-.project-link:first-child {
+/* .project-link:first-child {
   margin-left: 10px;
-}
+} */
 
 .project-bracket {
   font-weight: bold;
@@ -107,7 +109,7 @@ body {
 
 .project-overview {
   display: block;
-  margin-left: 10px;
+  /* margin-left: 10px; */
 }
 
 /* work styles */
