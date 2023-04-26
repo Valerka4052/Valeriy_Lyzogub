@@ -18,6 +18,7 @@ body {
 }
 
 .main-content {
+  width: 70%;
   background-color: #ebe5cd9e;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
   padding: 105px 80px;
@@ -176,7 +177,7 @@ text-align: center;
 /* sidebar styles */
 .sidebar {
   background-color: #232526;
-  width: 260px;
+  width: 30%;
 }
 
 .sidebar-title {
@@ -215,8 +216,8 @@ text-align: center;
 }
 
 .photo {
-  width: 260px;
-  height: 347px;
+  width: 100%;
+  height: auto;
   /* border-radius: 18px; */
   margin-bottom: 20px;
   
